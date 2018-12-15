@@ -1,3 +1,0 @@
-[submodule "littlevgl_pc"]
-	path = littlevgl_pc
-	url = git@github.com:littlevgl/pc_simulator.git
